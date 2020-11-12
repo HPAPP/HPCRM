@@ -1,3 +1,5 @@
+{
+  "areas":
 [
 {"area_code": "0015005","area_name": "OLD BUS STAND","dist_code": "0015","area_type": "L"},
 {"area_code": "0015006","area_name": "DR. MUZAFER (JOHI)","dist_code": "0015","area_type": "L"},
@@ -1149,3 +1151,4 @@
 {"area_code": "0171124","area_name": "JHAI","dist_code": "0007","area_type": "O"},
 {"area_code": "0171125","area_name": "CHIPRAAR","dist_code": "0007","area_type": "O"}
 ]
+}
